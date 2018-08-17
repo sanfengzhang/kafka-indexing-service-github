@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: druid-kafka-indexing-service
+Implementation-Version: 0.13.0-SNAPSHOT
+Built-By: owner
+Specification-Title: druid-kafka-indexing-service
+Implementation-Vendor-Id: io.druid.extensions
+Build-Jdk: 1.8.0_141
+Specification-Version: 0.13.0-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+

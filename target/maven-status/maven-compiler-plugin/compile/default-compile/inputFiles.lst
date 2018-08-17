@@ -1,0 +1,14 @@
+F:\workspace\druid-kafka\druid\incubator-druid\extensions-core\kafka-indexing-service\src\main\java\io\druid\indexing\kafka\KafkaIndexTaskClientFactory.java
+F:\workspace\druid-kafka\druid\incubator-druid\extensions-core\kafka-indexing-service\src\main\java\io\druid\indexing\kafka\supervisor\KafkaSupervisor.java
+F:\workspace\druid-kafka\druid\incubator-druid\extensions-core\kafka-indexing-service\src\main\java\io\druid\indexing\kafka\KafkaIndexTaskClient.java
+F:\workspace\druid-kafka\druid\incubator-druid\extensions-core\kafka-indexing-service\src\main\java\io\druid\indexing\kafka\supervisor\KafkaSupervisorIOConfig.java
+F:\workspace\druid-kafka\druid\incubator-druid\extensions-core\kafka-indexing-service\src\main\java\io\druid\indexing\kafka\KafkaIndexTaskModule.java
+F:\workspace\druid-kafka\druid\incubator-druid\extensions-core\kafka-indexing-service\src\main\java\io\druid\indexing\kafka\KafkaTuningConfig.java
+F:\workspace\druid-kafka\druid\incubator-druid\extensions-core\kafka-indexing-service\src\main\java\io\druid\indexing\kafka\KafkaDataSourceMetadata.java
+F:\workspace\druid-kafka\druid\incubator-druid\extensions-core\kafka-indexing-service\src\main\java\io\druid\indexing\kafka\KafkaIndexTask.java
+F:\workspace\druid-kafka\druid\incubator-druid\extensions-core\kafka-indexing-service\src\main\java\io\druid\indexing\kafka\supervisor\KafkaSupervisorTuningConfig.java
+F:\workspace\druid-kafka\druid\incubator-druid\extensions-core\kafka-indexing-service\src\main\java\io\druid\indexing\kafka\supervisor\TaskReportData.java
+F:\workspace\druid-kafka\druid\incubator-druid\extensions-core\kafka-indexing-service\src\main\java\io\druid\indexing\kafka\supervisor\KafkaSupervisorSpec.java
+F:\workspace\druid-kafka\druid\incubator-druid\extensions-core\kafka-indexing-service\src\main\java\io\druid\indexing\kafka\KafkaPartitions.java
+F:\workspace\druid-kafka\druid\incubator-druid\extensions-core\kafka-indexing-service\src\main\java\io\druid\indexing\kafka\supervisor\KafkaSupervisorReport.java
+F:\workspace\druid-kafka\druid\incubator-druid\extensions-core\kafka-indexing-service\src\main\java\io\druid\indexing\kafka\KafkaIOConfig.java

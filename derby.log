@@ -1,0 +1,32 @@
+----------------------------------------------------------------
+Tue Aug 14 14:48:11 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-0165-3731-1fdf-00000529f6e0 
+on database directory memory:F:\workspace\druid-kafka\druid\incubator-druid\extensions-core\kafka-indexing-service\druidTesta9e375db1f864627a0b8796d2528c565 with class loader sun.misc.Launcher$AppClassLoader@2077d4de 
+Loaded from file:/C:/MavenRepository/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_141-b15
+user.dir=F:\workspace\druid-kafka\druid\incubator-druid\extensions-core\kafka-indexing-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Aug 14 14:48:19 CST 2018:
+Shutting down instance a816c00e-0165-3731-1fdf-00000529f6e0 on database directory memory:F:\workspace\druid-kafka\druid\incubator-druid\extensions-core\kafka-indexing-service\druidTesta9e375db1f864627a0b8796d2528c565 with class loader sun.misc.Launcher$AppClassLoader@2077d4de 
+----------------------------------------------------------------
+Tue Aug 14 14:48:19 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance ec17812d-0165-3731-1fdf-00000529f6e0 
+on database directory memory:F:\workspace\druid-kafka\druid\incubator-druid\extensions-core\kafka-indexing-service\druidTest902a47dd636a4b48873828685c84c525 with class loader sun.misc.Launcher$AppClassLoader@2077d4de 
+Loaded from file:/C:/MavenRepository/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_141-b15
+user.dir=F:\workspace\druid-kafka\druid\incubator-druid\extensions-core\kafka-indexing-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Aug 14 14:48:21 CST 2018:
+Shutting down instance ec17812d-0165-3731-1fdf-00000529f6e0 on database directory memory:F:\workspace\druid-kafka\druid\incubator-druid\extensions-core\kafka-indexing-service\druidTest902a47dd636a4b48873828685c84c525 with class loader sun.misc.Launcher$AppClassLoader@2077d4de 
